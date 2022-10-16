@@ -14,7 +14,7 @@ use Illuminate\Support\ServiceProvider;
  * @package AttractCores\LaravelCoreClasses
  * Date: 10.12.2020
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class CoreControllerServiceProvider extends ServiceProvider
 {

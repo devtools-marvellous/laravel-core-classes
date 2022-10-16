@@ -10,7 +10,7 @@ use Illuminate\Support\Str;
  * @package App\Traits\Models
  * Date: 12.02.2021
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 trait HasUUID
 {

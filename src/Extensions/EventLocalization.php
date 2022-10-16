@@ -8,7 +8,7 @@ namespace AttractCores\LaravelCoreClasses\Extensions;
  * @package App\Events\Extensions
  * Date: 12.04.2022
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 trait EventLocalization
 {

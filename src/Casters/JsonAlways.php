@@ -10,7 +10,7 @@ use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
  * @package ${NAMESPACE}
  * Date: 03.02.2022
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class JsonAlways implements CastsAttributes
 {

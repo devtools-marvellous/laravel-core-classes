@@ -11,7 +11,7 @@ use Illuminate\Foundation\Http\FormRequest;
  * @package AttractCores\LaravelCoreClasses
  * Date: 04.03.2021
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class CoreFormRequest extends FormRequest
 {

@@ -12,9 +12,9 @@
     "require": {
         "php": "^7.4|^8.0",
         "facade/ignition": "^2.5",
-        "amondar/rest-actions": "^5.0|^6.0",
-        "amondar/security-request": "^3.0",
-        "amondar/sextant": "^1.2.9"
+        "yurenery/rest-actions": "^5.0|^6.0",
+        "yurenery/security-request": "^3.0",
+        "yurenery/sextant": "^1.2.9"
     },
     "autoload": {
         "psr-4": {

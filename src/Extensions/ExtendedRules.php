@@ -9,7 +9,7 @@ namespace AttractCores\LaravelCoreClasses\Extensions;
  * @package AttractCores\LaravelCoreClasses\Extensions
  * Date: 22.04.2022
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 trait ExtendedRules
 {
