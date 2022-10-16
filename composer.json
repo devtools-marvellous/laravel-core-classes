@@ -2,7 +2,7 @@
     "name": "yurenery/laravel-core-classes",
     "description": "Main core classes for apis and kit modules",
     "type": "library",
-    "version": "1.1.11",
+    "version": "1.1.12",
     "authors": [
         {
             "name": "Yure Nery",
