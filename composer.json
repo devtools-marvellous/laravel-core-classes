@@ -1,5 +1,5 @@
 {
-    "name": "yurenery/laravel-core-classes",
+    "name": "devtools-marvellous/laravel-core-classes",
     "description": "Main core classes for apis and kit modules",
     "type": "library",
     "version": "1.1.12",
@@ -12,9 +12,9 @@
     "require": {
         "php": "^7.4|^8.0",
         "facade/ignition": "^2.5",
-        "yurenery/rest-actions": "^5.0|^6.0",
-        "yurenery/security-request": "^3.0",
-        "yurenery/sextant": "^1.2.9"
+        "devtools-marvellous/rest-actions": "^5.0|^6.0",
+        "devtools-marvellous/security-request": "^3.0",
+        "devtools-marvellous/sextant": "^1.2.9"
     },
     "autoload": {
         "psr-4": {
