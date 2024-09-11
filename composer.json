@@ -2,7 +2,7 @@
     "name": "devtools-marvellous/laravel-core-classes",
     "description": "Main core classes for apis and kit modules",
     "type": "library",
-    "version": "1.1.12",
+    "version": "1.1.13",
     "authors": [
         {
             "name": "Yure Nery",
@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "facade/ignition": "^2.5",
-        "devtools-marvellous/rest-actions": "^5.0|^6.0",
+        "php": "^8.0",
+        "facade/ignition": "^2.17.0",
+        "devtools-marvellous/rest-actions": "^6.0",
         "devtools-marvellous/security-request": "^3.0",
         "devtools-marvellous/sextant": "^1.2.9"
     },
